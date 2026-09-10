@@ -1,1 +1,2 @@
 Hi I'm Deetyam and this is my first file for GitHub Intro Lesson.
+Hi I'm Jyothis and this is my edit on Deetyam's file for GitHub Intro Lesson.
